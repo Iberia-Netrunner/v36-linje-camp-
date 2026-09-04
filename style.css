@@ -1,0 +1,10 @@
+.tabla {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 1rem;
+}
+
+.avgang {
+  background-color: rgb(162, 176, 176);
+  padding: 5px;
+}
